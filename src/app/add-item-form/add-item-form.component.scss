@@ -1,0 +1,17 @@
+@import '../../main-styles.scss';
+
+.input {
+    background-color: $light-grey;
+}
+
+.button {
+    background-color: $purple;
+}
+
+.button:disabled {
+    background-color: $dark-grey;
+}
+
+.button:hover {
+    background-color: $light-pink;
+}
